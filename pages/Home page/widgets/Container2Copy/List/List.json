@@ -1400,12 +1400,7 @@
         "isLoading": false,
         "borderRadius": "0px"
     }],
-    "privateWidgets": {
-        "Text2CopyCopyCopy3": true,
-        "Text2CopyCopy2": true,
-        "Text2": true,
-        "Text1": true
-    },
+    "privateWidgets": {"undefined": true},
     "key": "bkegg2s7tq",
     "labelTextSize": "0.875rem",
     "backgroundColor": "transparent",
